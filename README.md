@@ -15,6 +15,7 @@
 - Лаб. 4: https://github.com/hilleri123/AS_Python/blob/master/4lab/task.md
 - БРС: https://github.com/hilleri123/AS_Python/blob/master/BRS.md
 - Как устроена сдача: https://github.com/hilleri123/AS_Python/blob/master/ORGANIZATION.md
+- Как сделать форк (со скриншотами): https://github.com/hilleri123/AS_Python/blob/master/GIT.md
 
 # Посещаемость
 
